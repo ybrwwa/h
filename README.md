@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> (https://t.me/SEZR_X)[اهلا انا المطور سيزر] | [![Profile Views](https://gpvc.arturio.dev/herox-xd)](https://telegram.me/herox_xd)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> (https://t.me/SEZR_X)[اهلا انا المطور سيزر](https://t.me/SEZR_X) | [![Profile Views](https://gpvc.arturio.dev/herox-xd)](https://telegram.me/herox_xd)
 
 # Active Graph
 
